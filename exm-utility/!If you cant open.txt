@@ -1,0 +1,18 @@
+If you see a “Windows protected your PC” blue screen. 
+(This is windows smart screen, it shows this because the app preforms certain changes to your pc and it may get falsely flagged, 
+if you are concerned that it is a virus, just read trough the source code or put it into virustotal and check the behavior tab
+
+In order to run it:
+- Click “More info”.
+
+- Click the “Run anyway” button.
+
+
+
+If you cannot open the app at all
+
+- This is most likely due to your antivirus, it may be stopping your from launching the app, because the app preforms certain changes to your pc and it may get falsely flagged, 
+if you are concerned that it is a virus, just read trough the source code or put it into virustotal and check the behavior tab
+
+in order to run the app, temporarly disable your antivirus, after applying the changes you can enable it back again
+

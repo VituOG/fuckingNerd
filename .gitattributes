@@ -1,0 +1,72 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# TypeScript
+*.ts text
+*.tsx text
+
+# JavaScript
+*.js text
+*.jsx text
+
+# JSON
+*.json text
+
+# CSS
+*.css text
+*.scss text
+*.sass text
+
+# HTML
+*.html text
+
+# Markdown
+*.md text
+
+# YAML
+*.yml text
+*.yaml text
+
+# Config files
+*.config.js text
+*.config.ts text
+*.config.json text
+
+# Documentation
+*.txt text
+*.rst text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+
+# Archives
+*.zip binary
+*.tar.gz binary
+*.rar binary
+*.7z binary
+
+# Executables
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+
+# Logs
+*.log text eol=lf
+
+# Temporary files
+*.tmp text
+*.temp text 
